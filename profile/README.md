@@ -2,8 +2,6 @@
 
 Welcome to the Fairfax Investment Group GitHub account. We are a Virginia-based investment group organized as a general partnership, bringing together minds from Finance, Mathematics, Computer Science, and Engineering with a shared interest for capital markets and fundamental value-focused investing. On this GitHub account we host our research that range from stock pitches to backtesting investment strategies.
 
----
-
 ## What We Do
 
 Our members actively explore topics such as:
