@@ -4,7 +4,7 @@ Welcome to the Fairfax Investment Group GitHub account. We are a Virginia-based 
 
 ## What We Do
 
-Our members actively explore topics such as:
+Our partners actively explore topics such as:
 
 - **Equity Research** – fundamental and quantitative analysis, valuation frameworks, competitive moat evaluation  
 - **Quantitative Finance** – factor analysis, backtesting, and performance modeling  
@@ -12,14 +12,9 @@ Our members actively explore topics such as:
 - **Portfolio Analytics** – performance tracking, risk decomposition, and long-only investment strategy  
 - **Research Publishing** – producing professional-grade stock reports and investment memos
 
----
+## Co-Founders
 
-## Our Mission
-
-**Education First.**  
-Through collaborative projects and hands-on research, we aim to bridge the gap between **theory and real-world investing practice**.
-
-We believe in **transparency, disciplined analysis, and open collaboration** — values that guide our research philosophy.  
-Let’s compound our knowledge and returns together.
-
----
+- Thomas Duong
+- Titus Er
+- Kyle Li
+- Claire Mo
