@@ -1,8 +1,6 @@
-# Fairfax Investment Group
+# Fairfax Investment Group GP
 
-Fairfax Investment Group (FIG) is a student-led investment research initiative based in Fairfax County, VA, bringing together students interested in **equity research, quantamental investing, financial modeling, and data-driven portfolio analysis**. Our members come from diverse backgrounds in Business, Economics, Mathematics, Computer Science, and Engineering, united by a shared interest in public markets and long-term investing.
-
-On this GitHub organization, we host all of our research, models, data pipelines, and analytical tools used across FIG projects and publications.
+Welcome to the Fairfax Investment Group GitHub account. We are a Virginia-based investment group organized as a general partnership, bringing together minds from Finance, Mathematics, Computer Science, and Engineering with a shared interest for capital markets and fundamental value-focused investing. On this GitHub account we host our research that range from stock pitches to backtesting investment strategies.
 
 ---
 
@@ -27,54 +25,3 @@ We believe in **transparency, disciplined analysis, and open collaboration** —
 Let’s compound our knowledge and returns together.
 
 ---
-
-## Networking & Community
-
-We are building a space where students can:
-
-- Share investment ideas  
-- Work together on research projects  
-- Build financial modeling skills  
-- Learn valuation, risk analysis, and data processing  
-- Explore the intersection of programming and finance  
-
-Whether you're new to investing or experienced, you’ll find like-minded collaborators at FIG.
-
----
-
-## Open Source
-
-We believe open-source research accelerates learning, skill development, and transparency.
-
-### FIG open-source initiatives include:
-
-- **Valuation templates and modeling tools**  
-- **Backtesting and factor analysis frameworks**  
-- **Data processing notebooks and pipelines**  
-- **Long-term equity research archives**  
-- **Documentation of FIG methodologies and workflows**
-
----
-
-## Get Involved
-
-FIG welcomes students who are passionate about:
-
-- Long-only equity investing  
-- Quantamental analysis  
-- Corporate finance  
-- Data analytics  
-- Financial research & modeling  
-
-If you're eager to learn, collaborate, and contribute to meaningful investment research — you're in the right place.
-
----
-
-### Contact  
-📧 fairfax.investment.group.gp@gmail.com  
-🔗 LinkedIn: https://linkedin.com/company/fairfax-investments  
-🌐 Website: (coming soon)
-
-⭐ Copy the entire block above
-Paste it into the GitHub file editor after creating:
-profile/README.md
