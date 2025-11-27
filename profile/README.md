@@ -12,7 +12,7 @@ Our partners actively explore topics such as:
 - **Portfolio Analytics** – performance tracking, risk decomposition, and long-only investment strategy  
 - **Research Publishing** – producing professional-grade stock reports and investment memos
 
-## Co-Founders
+## Co-Founders / Management
 
 - Thomas Duong
 - Titus Er
