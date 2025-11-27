@@ -8,7 +8,6 @@ Our partners actively explore topics such as:
 
 - **Equity Research** – fundamental and quantitative analysis, valuation frameworks, competitive moat evaluation  
 - **Quantitative Finance** – factor analysis, backtesting, and performance modeling  
-- **Data Engineering** – building pipelines for market data, financial statements, and automated research workflows  
 - **Portfolio Analytics** – performance tracking, risk decomposition, and long-only investment strategy  
 - **Research Publishing** – producing professional-grade stock reports and investment memos
 
