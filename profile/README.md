@@ -1,6 +1,6 @@
 # Fairfax Investment Group GP
 
-Welcome to the Fairfax Investment Group GitHub account. We are a Virginia-based BetterInvesting investment group organized as a general partnership, bringing together minds from Finance, Mathematics, Computer Science, and Engineering to manage a $12,000 fundamental value-focused equity portfolio. On this GitHub account we host our research that range from stock pitches to backtesting investment strategies.
+Welcome to the Fairfax Investment Group GitHub account. We are a Virginia-based BetterInvesting (NAIC) investment group organized as a general partnership, bringing together minds from Finance, Mathematics, Computer Science, and Engineering to manage a $12,000 fundamental value-focused equity portfolio. On this GitHub account we host our research that range from stock pitches to backtesting investment strategies.
 
 ## What We Do
 
