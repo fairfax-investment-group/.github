@@ -4,8 +4,6 @@ Welcome to the Fairfax Investment Group GitHub account. We are a Virginia-based 
 
 ## What We Do
 
-Actively explore topics such as:
-
 - **Equity Research** – fundamental and quantitative analysis, valuation frameworks, competitive moat evaluation  
 - **Quantitative Finance** – factor analysis, backtesting, and performance modeling  
 - **Portfolio Analytics** – performance tracking, risk decomposition, and long-only investment strategy  
